@@ -1,16 +1,16 @@
 body{
-	background: url("../img/hojas.jpg");
+	background: url("../img/fondo.png");
 	background-attachment: fixed;
 }
 
 #logo{
-	background: #235E3D;
+	background: #66a3f1;
 }
 
 #menu ul li:hover{
-	background: #235E3D;
+	background: #bfddf8;
 }
 
 .button-more{
-	background: #235E3D;
+	background: #66a3f1;
 }

@@ -1,0 +1,66 @@
+body
+{
+    background-image: url("https://i.pinimg.com/originals/af/89/2c/af892ce6b1563d61fe8206f0cc3c75f9.jpg");
+    color: rgb(5, 2, 2);
+    text-align: center;
+    font-family: Arial;
+    font-size: 24px;
+    margin: 0;
+    padding: 0;
+}
+
+#container
+{
+    background: #ffffff;
+    width: 85%;
+    height: auto;
+    padding: 2;
+    text-align: center;
+    border: 1px solid #333;
+    margin: 0 auto;
+    border-radius: 0.9cm;
+}
+
+#cabecera
+{
+    background: rgb(126, 248, 181);
+    box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 0.5);
+    color: azure;
+    font-weight: bold;  
+    margin: 7.5px;  
+    padding: 0.1cm ;
+    font-size: 40px;
+    border-radius: 0.9cm;
+}
+
+#cabecera #logo
+{
+    width: 4em;
+    vertical-align: middle;
+}
+
+ #cabecera #tagline
+{
+    padding: 0 0 0 1em;
+    font-weight: normal;
+    font-size: 0.8em;
+}
+
+#footer
+{
+    box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 0.5);
+    text-align: center;
+    background-color: rgb(54, 228, 176);
+    font-size: 30px;
+    color: rgb(255, 255, 255);
+    padding: 0.5em;
+    border-radius: 0.9cm;
+    width: auto;
+    font-family:cursive;
+    margin: 5px;
+}
+#post
+{
+margin: 2em;
+font-size: 20px;
+}

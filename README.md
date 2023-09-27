@@ -1,5 +1,5 @@
 
-# Pensamientos...¿Ocultos? 👁👁
+# Pensamientos...👁👁
 >Este blog esta en modo de aprendizaje y desarrollo. No hay que tomarselo con seriedad, solamente **aprender y expresarse**.
 
 # Blog OpenSource 🦾
@@ -9,8 +9,6 @@
 - Uso basico de HTML y CSS
 - Uso de Git y GitHub
 - Resolucion de problemas con el codigo
-- Uso correcto de palabras
-- Y mucho mas
 
 # Sobre mi 🧑
 > Soy Samuel, tengo 22 años, soy de Argentina, Mendoza. y estoy aprendiendo programacion ya que es algo siempre me gusto pero me dio miedo avanzar. Gracias al equipo de Platzi y los estudiantes, puedo nutrirme de conocimientos dia a dia.
